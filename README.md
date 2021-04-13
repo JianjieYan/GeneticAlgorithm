@@ -1,4 +1,6 @@
 # GeneticAlgorithm
+
+Master's OOP Project
 abstract Factory pattern, strategy pattern and singleton patterns are applied to the algorithm
 
 
